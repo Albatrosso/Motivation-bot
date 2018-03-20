@@ -1,2 +1,2 @@
-# Pavlenko
-Here is my python projects, mostly Telegram bots
+# Motivation-bot for telegram
+Here is my python 3 bot for telegram. it sends motivation messages.
